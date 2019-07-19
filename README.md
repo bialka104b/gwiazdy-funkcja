@@ -1,1 +1,1 @@
-# gwiazdy-funkcja
+# stars function / gwiazdy-funkcja
