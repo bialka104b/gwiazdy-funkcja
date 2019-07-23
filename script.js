@@ -50,4 +50,4 @@ function filledStar(){
     context.stroke();
     context.fill();
   }
-} filledStar();
+} (filledStar());
